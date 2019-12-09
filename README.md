@@ -1,6 +1,6 @@
 # Other files related to micropython
 
-** Latest ** The latest firmware is MicroPython v1.11-631-gb76f0a73b-kaki5
+**Latest** The latest firmware is MicroPython v1.11-631-gb76f0a73b-kaki5
 
 
 * tools - tools for working with scripts
