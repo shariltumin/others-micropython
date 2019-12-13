@@ -1,4 +1,4 @@
-The latest firmware include LittleFS. You can use LittleFS instead of FatFs(default) by doing these in REPL:
+The latest firmware include LittleFS. You can use LittleFS instead of FatFS(default) by doing these in REPL:
 
 ```
 >>> import os
